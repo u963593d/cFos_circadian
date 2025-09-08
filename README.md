@@ -54,12 +54,10 @@ The details about timetable method are shown in [Ueda et al](https://www.pnas.or
 The details about CYCLOPS 2.0 are shown in [Anafi et al](https://www.pnas.org/doi/10.1073/pnas.1619320114).
 
 ## Contact
-K. Yamashita<br>
-kyamashita276@gmail.com
+K. Yamashita  kyamashita276@gmail.com
 
-<br><br>
-F. L. Kinoshita<br>
-kinoshita.lee@gmail.com
+<br>
+F. L. Kinoshita  kinoshita.lee@gmail.com
 
 If you utilize this code in your research, please cite the following original paper:
 A whole-brain single-cell atlas of circadian neural activity in mice.
