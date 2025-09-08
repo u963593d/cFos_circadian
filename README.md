@@ -56,11 +56,11 @@ The details about CYCLOPS 2.0 are shown in [Anafi et al](https://www.pnas.org/do
 
 ## Contact
 K. Yamashita  kyamashita276@gmail.com
-
 <br>
 F. L. Kinoshita  kinoshita.lee@gmail.com
-
 <br>
+<br>
+
 If you utilize this code in your research, please cite the following original paper:
 A whole-brain single-cell atlas of circadian neural activity in mice.
 K. Yamashita et al. Under review.
